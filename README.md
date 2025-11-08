@@ -1,4 +1,4 @@
-**Chicken chicken chicken: chicken chicken** (*ccc* for short) is an esolang inspired by [Chicken](https://esolangs.org/wiki/Chicken). The only valid tokens are `chicken` and punctuations.
+**Chicken chicken chicken: chicken chicken** (*ccc:cc* for short) is an esolang inspired by [Chicken](https://esolangs.org/wiki/Chicken). The only valid tokens are `chicken` and punctuations.
 
 ### Syntax and execution
 Please refer to [the esolang wiki page](https://esolangs.org/wiki/ccc:cc) for details.
